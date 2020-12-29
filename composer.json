@@ -1,0 +1,14 @@
+{
+    "name": "simplexi/greetr",
+    "description": "Greetr - A simple Laravel package",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "phubui",
+            "email": "phubui@simplexi.com.ph"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
